@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JustJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JustJava/out/artifacts/JustJava_jar/JustJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../JustJava/out/artifacts/JustJava_jar/JustJava.jar!/" />
+    </SOURCES>
+  </library>
+</component>
